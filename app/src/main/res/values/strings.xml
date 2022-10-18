@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="textView">Відповідь</string>
+    <string name="okButton">Ok</string>
+    <string name="lab1">Лабораторна робота №1</string>
+    <string name="edit">Введіть питання</string>
+    <string name="buttonYes">Так</string>
+    <string name="buttonNo">Ні</string>
+    <string name="labelAnswer">Відповідь:</string>
+    <string name="inputQuestion">Введіть питання</string>
+    <string name="output" />
+</resources>
